@@ -1,215 +1,137 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harsh Singh</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Harsh%20Kumar%20Singh&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20React.js%20%7C%20Node.js%20%7C%20MERN%20Stack&descAlignY=58&descSize=18&animation=fadeIn"/>
+<h3 align="center">
+🚀 Full Stack MERN Developer | React Developer | Problem Solver
+</h3>
 
-</div>
+<p align="center">
+Building Modern Web Applications with React, Node.js, Express.js & MongoDB
+</p>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%F0%9F%9A%80;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB+%F0%9F%94%A5;Building+Scalable+Web+Applications+%E2%9A%A1;Open+to+Full-Time+Roles+%26+Internships+%F0%9F%92%BC)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-singh-63958128a/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshkumarsingh987)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919473681152)
-
-![Profile Views](https://komarev.com/ghpvc/?username=harshkumarsingh987&color=38bdf8&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;React+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+</p>
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+## 👨‍💻 About Me
 
-## 🧠 `whoami`
+🎓 Computer Science Engineering Student
 
-```ts
-const harsh: Developer = {
-  name:     "Harsh Kumar Singh",
-  location: "Lucknow, Uttar Pradesh 🇮🇳",
-  role:     "Full-Stack Developer",
-  college:  "B.Tech CSE — DSMNRU (GPA: 7.6)",
+💻 Full Stack MERN Developer
 
-  stack: {
-    frontend:  ["React.js", "Redux", "Material UI", "Bootstrap"],
-    backend:   ["Node.js", "Express.js", "REST APIs"],
-    database:  ["MongoDB", "MySQL"],
-    tools:     ["Git", "Firebase", "Postman", "Docker"],
-    auth:      ["JWT", "Firebase Auth"],
-  },
+🌱 Currently Learning AI, Machine Learning & Data Analytics
 
-  learning:  ["TypeScript", "GraphQL", "System Design"],
-  available:  true,
-  motto:     "Build. Break. Learn. Repeat. 🔁",
-};
-```
+🚀 Passionate About Building Real-World Projects
 
-<br clear="right"/>
+📚 Constantly Exploring New Technologies
+
+🎯 Goal: Become a Top Software Engineer & Entrepreneur
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🚀 Tech Stack
 
-<div align="center">
-
-### ⚡ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### 🔧 Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### 🔐 Auth & Tools
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker_(Basic)-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🧪 Familiar With
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nodejs,express,mongodb,firebase,python,git,github,vscode,mui" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🔥 Featured Projects
 
-### 🤖 AI-Powered Quiz Platform with Intelligent Chatbot
+### 🛒 ANHA E-Commerce Platform
+Modern E-Commerce Website built using React.js, Node.js, Express.js and MongoDB.
 
-> Full-stack quiz app with an AI chatbot that explains wrong answers and provides learning hints.
+### 🌾 AgroVision
+Smart Agriculture Platform connecting Farmers and Buyers through Contract Farming.
 
-```
-Tech: React.js · Node.js · Express.js · MongoDB · GROQ API · JWT
-```
+### 📸 Instagram Clone
+Responsive Social Media Application built with React & Firebase.
 
-| Feature | Description |
-|---|---|
-| 🔐 **Auth** | Secure JWT-based authentication for sign-up & login |
-| 🧠 **AI Chatbot** | GROQ API-powered chatbot for personalized learning hints |
-| 📊 **Analytics** | MongoDB schema tracking quiz attempts, scores & engagement |
-| ⚡ **Real-Time** | Live score tracking with dynamic question management |
+### 🎉 Event Management System
+Event Booking and Management System using MERN Stack.
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshkumarsingh987/QuizeApp)
+### 💼 Job Portal
+Job Listing Platform with Advanced Search & Filters.
 
----
-
-### 📸 Instagram Clone — User Engagement Analytics Layer
-
-> Responsive Instagram-inspired social media app with post uploads, likes, comments & real-time updates.
-
-```
-Tech: React.js · Node.js · MongoDB · Firebase · Material UI · JWT
-```
-
-| Feature | Description |
-|---|---|
-| 📤 **Posts** | Upload posts with likes & comment functionality |
-| 🔒 **Auth** | Firebase + JWT authentication for secure sessions |
-| 📱 **Responsive** | Material UI for clean, cross-device experience |
-| ⚡ **Real-Time** | Optimized real-time database operations |
-
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshkumarsingh987/instagramapp)
+### 🤖 CodeReviewAI
+AI-powered Code Review Platform for Developers.
 
 ---
 
-### 🌦️ APIs-based Weather Forecast
+## 📊 GitHub Statistics
 
-> Multi-city weather dashboard with data visualization and automated daily ingestion.
+<p align="center">
 
-```
-Tech: HTML · CSS · JavaScript · REST APIs · Matplotlib · Seaborn
-```
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshkumarsingh987&show_icons=true&theme=tokyonight"/>
 
-| Feature | Description |
-|---|---|
-| 🌍 **Multi-City** | Fetches & processes weather data for multiple cities |
-| 📈 **Visualization** | Temp, humidity, rainfall & wind pattern charts |
-| 🔄 **Automated** | Daily data ingestion script — no manual intervention |
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumarsingh987&layout=compact&theme=tokyonight"/>
 
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshkumarsingh987/Weather-Report)
+</p>
 
 ---
 
-## 💼 Experience
+## 🔥 GitHub Streak
 
-<div align="center">
-
-| 🏢 Company | 🎯 Role | 📅 Duration |
-|:---:|:---:|:---:|
-| **The Entrepreneurs Network (TEN Ltd)** | Full Stack Developer Intern | March 2026 – May 2026 |
-| **ByteMatrix** | Project Manager Intern | May 2025 – July 2025 |
-
-</div>
-
-**TEN Ltd** — Built full-stack applications (React + Node + MongoDB), designed RESTful APIs with JWT auth & CRUD ops, reducing backend iteration time by ~30%.
-
-**ByteMatrix** — Managed sprint planning, task assignments & stakeholder communication for web dev projects across cross-functional teams.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumarsingh987&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎓 Education & Certifications
+## 🏆 GitHub Trophies
 
-```
-🎓  B.Tech in Computer Science (GPA: 7.6)
-    Dr. Shakuntala Misra National Rehabilitation University — May 2026
-
-🏅  Delta – Full Stack Web Development
-    Apna College / Credential ID: 675530b58692510ae2056ce6 (May 2023 – Jul 2024)
-
-📜  Project Manager Internship — ByteMatrix
-    Credential ID: BM/MERN/22499 (May 2025 – Jul 2025)
-```
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshkumarsingh987&theme=tokyonight&row=1&column=6"/>
+</p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshkumarsingh987&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumarsingh987&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=harshkumarsingh987&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshkumarsingh987&theme=tokyo-night"/>
+</p>
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
-| | |
-|:---:|:---|
-| 📧 | [harshkumarsingh994@gmail.com](mailto:harshkumarsingh994@gmail.com) 
-| 📱 | +91-9473681152 |
-| 💼 | [linkedin.com/in/harsh-kumar-singh-63958128a](https://www.linkedin.com/in/harsh-kumar-singh-63958128a/) |
-| 🐙 | [github.com/harshkumarsingh987](https://github.com/harshkumarsingh987) |
+<a href="https://github.com/harshkumarsingh987">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-> *"I don't just write code — I craft experiences."*
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+</p>
 
-</div>
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=harshkumarsingh987&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 💡 Quote
+
+<p align="center">
+<i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile ⭐
+</p>
